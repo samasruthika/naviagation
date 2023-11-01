@@ -1,0 +1,7 @@
+.Home,.Services,.ContactUs,.About,.SignUp,.Notfound{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 3rem;
+  height: 90vh;
+}

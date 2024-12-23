@@ -1,0 +1,3 @@
+git add .
+git commit -m "Move pom.xml to correct location"
+git push origin main
